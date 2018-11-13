@@ -4,8 +4,8 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX wikibase: <http://wikiba.se/ontology#>
 PREFIX wd: <https://www.wikidata.org/wiki/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-
-<wikidata_item> {
+# new comment
+<#wikidata_item> {
 	rdfs:label	LITERAL ,
 	schema:description LITERAL ,
 	schema:version LITERAL ,
